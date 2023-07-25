@@ -1,6 +1,6 @@
 import React from 'react'
 
-const App = () => {
+const Reviews = () => {
   return (
     <div>
       
@@ -8,5 +8,5 @@ const App = () => {
   )
 }
 
-export default App
+export default Reviews
 
